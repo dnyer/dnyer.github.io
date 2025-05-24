@@ -85,9 +85,17 @@ html {
 
   html.dark {
   background-color: #0d0950;
-  color: #fff;
+  color: #ffffff;
 }
 
 .dark .nav-links a {
-  color: #fff;
+  color: #ffffff;
+}
+
+.dark a:link {
+  color: #f0a92d
+}
+
+.dark a:visited {
+  color: #adadad
 }
