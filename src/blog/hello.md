@@ -4,7 +4,7 @@ pubDate: 2025-05-07
 description: "Step 1: don't overthink it"
 author: 'DBN'
 image:
-    url: '/src/assets/PXL_20221016_175145295.jpg'
+    url: 'images/PXL_20221016_175145295.jpg'
     alt: 'Monadnock State Park, Jaffrey, NH. 16 Oct 2022'
 tags: ["meta", "blogging"]
 ---
