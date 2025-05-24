@@ -10,11 +10,11 @@ tags: ["blogging", "lost and found"]
 ---
 <p>Something cute I found this afternoon while digging through a luggage chest I bought at an estate sale - what appears to be a love letter, or perhaps the draft of one, or the beginning of a wedding vow, with accompanying doodle of the presumed beloved (or lover?).</p>
 
-<img src="/src/images/PXL_20250508_200701468.jpg" alt="The front of a 8&quot; x 5&quot; index card with a doodle of a person, with the accompanying text &quot;my curly burly love&quot; and &quot;gezundheit&quot;" title="The front of a 8&quot; x 5&quot; index card with a doodle of a person, with the accompanying text &quot;my curly burly love&quot; and &quot;gezundheit&quot;" width=100%>
+<img src="/images/PXL_20250508_200701468.jpg" alt="The front of a 8&quot; x 5&quot; index card with a doodle of a person, with the accompanying text &quot;my curly burly love&quot; and &quot;gezundheit&quot;" title="The front of a 8&quot; x 5&quot; index card with a doodle of a person, with the accompanying text &quot;my curly burly love&quot; and &quot;gezundheit&quot;" width=100%>
 
 <p>There's no date anywhere, but I'm guessing late 80s or early 90s based on other documents I found in the chest.</p>
 
-<img src="src/images/PXL_20250508_200713051.jpg" alt="The back of a 8&quot; x 5&quot; index card with cursive text, transcription in the article below." title="The back of a 8&quot; x 5&quot; index card with cursive text, transcription in the article below." width=100%>
+<img src="/images/PXL_20250508_200713051.jpg" alt="The back of a 8&quot; x 5&quot; index card with cursive text, transcription in the article below." title="The back of a 8&quot; x 5&quot; index card with cursive text, transcription in the article below." width=100%>
 
 <p>The text, as best I can tell:<br></p>
 <p>my love            my love with the burly curly <s>crop ha</s><br>
